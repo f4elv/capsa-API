@@ -1,0 +1,25 @@
+Rotas de criação e login
+
+criar usuário
+login
+retornar dados do usuário logado
+atualizar perfil do usuário 
+
+criar empresa
+listar dados da empresa
+atualizar dados da empresa
+deleta empresa
+
+abrir caixa
+criar transação
+editar transação
+listar transações
+lista detalhes de uma transação
+exclui uma transação
+cria despesa
+edita despesa
+lista despesas
+lista detalhes de uma despesa
+exclui despesa
+fecha o caixa
+deleta o caixa
